@@ -1,10 +1,15 @@
 # Importing datatime module to keep track of event times for when the user do operations
 import datetime
+from import_functions import history, read_balance, write_balance, read_inventory, write_inventory
+
 print("\nWelcome to the company's Account and Warehouse!\n")
 
 # Setting up the global variable and empty list 
-account = 0
-warehouse_list = []
+balance_file = "balance.txt"
+inventory = "warehouse.txt"
+history_file = "history.txt"
+account = read_balance(balance_file)
+warehouse_list = read_inventory(inventory)
 operations_recorded = [] # In here I am recording every single oparation done by the user
 
 
@@ -20,6 +25,8 @@ while True:
 
     # If user type "end" the program terminates
     if action == "end":
+        write_balance(balance_file, account)
+        history(operations_recorded, history_file)
         break
     
     # If user type "balance" the program will ask user input and if not int() the user will need to restart
@@ -37,6 +44,7 @@ while True:
                 "type": "balance action",
                 "account": balance,
                 "timestamp": datetime.datetime.now()})
+                history(operations_recorded, history_file)
                 break
             # checking if the user subtract more than the ammount available
             elif account <= 0 and balance <= 0:
@@ -54,6 +62,7 @@ while True:
         except ValueError:
             print("\nIncorrect input, Please retry!")
             continue
+
         # If account is higher than the purchase price entered then add the variable into the warehouse_list[] as a dictionary
         if account > price:
             # If user enters the same item, this will catch it and it will add the quantity, if not it will add the dict to the list warehouse_list[] 
@@ -62,10 +71,13 @@ while True:
                 if p["name"] == name:
                     p["quantity"] += quantity
                     item_exist = True
+                    write_inventory(inventory, warehouse_list)
                     break
             if not item_exist:
                 warehouse_list.append({"name" : name, "price" : price, "quantity" : quantity})
+                write_inventory(inventory, warehouse_list)
             account -= price * quantity # substract the purchased items from the account
+
             print(f"\nPurchase has been successful! {quantity} unit(s) of {name} bought for a total of {price * quantity}.")
             operations_recorded.append({
             "type": "purchase action",
@@ -73,6 +85,8 @@ while True:
             "price": price,
             "quantity": quantity,
             "timestamp": datetime.datetime.now()})
+            history(operations_recorded, history_file)
+            
         else:
             print("\nNot enough fund, Bruh!!!!")
     
@@ -99,6 +113,8 @@ while True:
                 "price": price,
                 "quantity": quantity,
                 "timestamp": datetime.datetime.now()})
+                history(operations_recorded, history_file) ###############################################################################
+                write_inventory(inventory, warehouse_list)
                 break
         else:
             print("\nProduct not found or insufficient quantity in the warehouse, Bruh!!!")
@@ -109,6 +125,7 @@ while True:
         operations_recorded.append({
         "type": "account action",
         "timestamp": datetime.datetime.now()})
+        history(operations_recorded, history_file) ###############################################################################
 
     # It will print everything in the warehouse listing it nicely
     elif action == "list":
@@ -120,19 +137,21 @@ while True:
                 operations_recorded.append({
                 "type": "list action",
                 "timestamp": datetime.datetime.now()})
+            history(operations_recorded, history_file) ###############################################################################
 
     # It will ask the user to input the name of the item. if not present it will say not present
     elif action == "warehouse":
         name = input("Enter the name of product: ")
         for find in warehouse_list:
             if find["name"] == name:
-                print(f"\nHere is the result:\n\nName: {find["name"]}\nQuantity: {find["quantity"]}")
+                print(f"\nHere is the result:\n\nName: {find['name']}\nQuantity: {find['quantity']}")
                 operations_recorded.append({
                 "type": "list action",
                 "timestamp": datetime.datetime.now()})
+                history(operations_recorded, history_file) ###############################################################################
                 break
-            else:
-                print("\nProduct is not in the system, Bruh!!!")
+        else:
+            print("\nProduct is not in the system, Bruh!!!")
 
     # It will ask the user to enter a digit or press enter.
     elif action == "review":

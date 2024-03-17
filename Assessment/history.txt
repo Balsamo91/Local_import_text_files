@@ -1,0 +1,528 @@
+{'type': 'balance action', 'account': 1000.0, 'timestamp': datetime.datetime(2024, 3, 16, 19, 21, 21, 41639)}
+{'type': 'purchase action', 'name': 'lala', 'price': 5, 'quantity': 5, 'timestamp': datetime.datetime(2024, 3, 16, 19, 21, 37, 235382)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 16, 19, 21, 40, 140830)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 16, 19, 21, 40, 140857)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 16, 19, 21, 40, 140869)}
+{'type': 'balance action', 'account': 1000.0, 'timestamp': datetime.datetime(2024, 3, 17, 18, 42, 54, 327708)}
+{'type': 'balance action', 'account': 1000.0, 'timestamp': datetime.datetime(2024, 3, 17, 18, 43, 26, 5489)}
+{'type': 'account action', 'timestamp': datetime.datetime(2024, 3, 17, 18, 43, 35, 864982)}
+{'type': 'balance action', 'account': 1000.0, 'timestamp': datetime.datetime(2024, 3, 17, 18, 47, 56, 635764)}
+{'type': 'balance action', 'account': 1000.0, 'timestamp': datetime.datetime(2024, 3, 17, 18, 50, 16, 877294)}
+{'type': 'balance action', 'account': 1000.0, 'timestamp': datetime.datetime(2024, 3, 17, 18, 51, 7, 230649)}
+{'type': 'account action', 'timestamp': datetime.datetime(2024, 3, 17, 19, 5, 29, 776330)}
+{'type': 'account action', 'timestamp': datetime.datetime(2024, 3, 17, 19, 7, 49, 469795)}
+{'type': 'account action', 'timestamp': datetime.datetime(2024, 3, 17, 19, 12, 31, 955703)}
+{'type': 'account action', 'timestamp': datetime.datetime(2024, 3, 17, 19, 13, 32, 298994)}
+{'type': 'account action', 'timestamp': datetime.datetime(2024, 3, 17, 19, 13, 32, 298994)}
+{'type': 'purchase action', 'name': 'lala', 'price': 5, 'quantity': 5, 'timestamp': datetime.datetime(2024, 3, 17, 19, 13, 40, 884149)}
+{'type': 'account action', 'timestamp': datetime.datetime(2024, 3, 17, 19, 13, 32, 298994)}
+{'type': 'purchase action', 'name': 'lala', 'price': 5, 'quantity': 5, 'timestamp': datetime.datetime(2024, 3, 17, 19, 13, 40, 884149)}
+{'type': 'account action', 'timestamp': datetime.datetime(2024, 3, 17, 19, 13, 53, 957415)}
+{'type': 'account action', 'timestamp': datetime.datetime(2024, 3, 17, 19, 25, 11, 62195)}
+{'type': 'account action', 'timestamp': datetime.datetime(2024, 3, 17, 19, 26, 45, 556390)}
+{'type': 'account action', 'timestamp': datetime.datetime(2024, 3, 17, 19, 39, 16, 548704)}
+{'type': 'account action', 'timestamp': datetime.datetime(2024, 3, 17, 19, 42, 26, 227766)}
+{'type': 'purchase action', 'name': 'coke', 'price': 5, 'quantity': 5, 'timestamp': datetime.datetime(2024, 3, 17, 19, 47, 5, 134633)}
+{'type': 'purchase action', 'name': 'coke', 'price': 5, 'quantity': 5, 'timestamp': datetime.datetime(2024, 3, 17, 19, 49, 40, 158804)}
+{'type': 'account action', 'timestamp': datetime.datetime(2024, 3, 17, 19, 53, 18, 995818)}
+{'type': 'account action', 'timestamp': datetime.datetime(2024, 3, 17, 19, 53, 18, 995818)}
+{'type': 'purchase action', 'name': 'coke', 'price': 10, 'quantity': 10, 'timestamp': datetime.datetime(2024, 3, 17, 19, 53, 26, 90378)}
+{'type': 'purchase action', 'name': 'coke', 'price': 10, 'quantity': 10, 'timestamp': datetime.datetime(2024, 3, 17, 19, 53, 57, 723521)}
+{'type': 'purchase action', 'name': 'coke', 'price': 5, 'quantity': 5, 'timestamp': datetime.datetime(2024, 3, 17, 19, 57, 32, 899239)}
+{'type': 'purchase action', 'name': 'fanta', 'price': 5, 'quantity': 5, 'timestamp': datetime.datetime(2024, 3, 17, 19, 58, 36, 589321)}
+{'type': 'purchase action', 'name': 'fanta', 'price': 5, 'quantity': 5, 'timestamp': datetime.datetime(2024, 3, 17, 19, 58, 36, 589321)}
+{'type': 'sale action', 'name': 'fanta', 'price': 1, 'quantity': 1, 'timestamp': datetime.datetime(2024, 3, 17, 19, 58, 53, 65792)}
+{'type': 'purchase action', 'name': 'fanta', 'price': 5, 'quantity': 5, 'timestamp': datetime.datetime(2024, 3, 17, 19, 58, 36, 589321)}
+{'type': 'sale action', 'name': 'fanta', 'price': 1, 'quantity': 1, 'timestamp': datetime.datetime(2024, 3, 17, 19, 58, 53, 65792)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 19, 58, 59, 826180)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 19, 58, 59, 826206)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 19, 58, 59, 826217)}
+{'type': 'purchase action', 'name': 'fanta', 'price': 5, 'quantity': 5, 'timestamp': datetime.datetime(2024, 3, 17, 19, 58, 36, 589321)}
+{'type': 'sale action', 'name': 'fanta', 'price': 1, 'quantity': 1, 'timestamp': datetime.datetime(2024, 3, 17, 19, 58, 53, 65792)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 19, 58, 59, 826180)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 19, 58, 59, 826206)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 19, 58, 59, 826217)}
+{'type': 'purchase action', 'name': 'coke', 'price': 5, 'quantity': 5, 'timestamp': datetime.datetime(2024, 3, 17, 19, 59, 20, 467029)}
+{'type': 'purchase action', 'name': 'fanta', 'price': 5, 'quantity': 5, 'timestamp': datetime.datetime(2024, 3, 17, 19, 58, 36, 589321)}
+{'type': 'sale action', 'name': 'fanta', 'price': 1, 'quantity': 1, 'timestamp': datetime.datetime(2024, 3, 17, 19, 58, 53, 65792)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 19, 58, 59, 826180)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 19, 58, 59, 826206)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 19, 58, 59, 826217)}
+{'type': 'purchase action', 'name': 'coke', 'price': 5, 'quantity': 5, 'timestamp': datetime.datetime(2024, 3, 17, 19, 59, 20, 467029)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 19, 59, 29, 135051)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 19, 59, 29, 135072)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 19, 59, 29, 135082)}
+{'type': 'purchase action', 'name': 'fanta', 'price': 5, 'quantity': 5, 'timestamp': datetime.datetime(2024, 3, 17, 19, 58, 36, 589321)}
+{'type': 'sale action', 'name': 'fanta', 'price': 1, 'quantity': 1, 'timestamp': datetime.datetime(2024, 3, 17, 19, 58, 53, 65792)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 19, 58, 59, 826180)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 19, 58, 59, 826206)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 19, 58, 59, 826217)}
+{'type': 'purchase action', 'name': 'coke', 'price': 5, 'quantity': 5, 'timestamp': datetime.datetime(2024, 3, 17, 19, 59, 20, 467029)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 19, 59, 29, 135051)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 19, 59, 29, 135072)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 19, 59, 29, 135082)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 19, 59, 29, 135838)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 19, 59, 29, 135852)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 19, 59, 29, 135861)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 19, 59, 52, 927334)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 19, 59, 52, 927377)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 19, 59, 52, 927389)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 19, 59, 52, 927334)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 19, 59, 52, 927377)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 19, 59, 52, 927389)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 19, 59, 52, 928058)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 19, 59, 52, 928067)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 19, 59, 52, 928074)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 19, 59, 52, 927334)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 19, 59, 52, 927377)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 19, 59, 52, 927389)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 19, 59, 52, 928058)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 19, 59, 52, 928067)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 19, 59, 52, 928074)}
+{'type': 'purchase action', 'name': 'fanta', 'price': 5, 'quantity': 5, 'timestamp': datetime.datetime(2024, 3, 17, 20, 0, 4, 254171)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 19, 59, 52, 927334)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 19, 59, 52, 927377)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 19, 59, 52, 927389)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 19, 59, 52, 928058)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 19, 59, 52, 928067)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 19, 59, 52, 928074)}
+{'type': 'purchase action', 'name': 'fanta', 'price': 5, 'quantity': 5, 'timestamp': datetime.datetime(2024, 3, 17, 20, 0, 4, 254171)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 0, 13, 72978)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 0, 13, 73005)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 0, 13, 73058)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 19, 59, 52, 927334)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 19, 59, 52, 927377)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 19, 59, 52, 927389)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 19, 59, 52, 928058)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 19, 59, 52, 928067)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 19, 59, 52, 928074)}
+{'type': 'purchase action', 'name': 'fanta', 'price': 5, 'quantity': 5, 'timestamp': datetime.datetime(2024, 3, 17, 20, 0, 4, 254171)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 0, 13, 72978)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 0, 13, 73005)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 0, 13, 73058)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 0, 13, 73856)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 0, 13, 73866)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 0, 13, 73874)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 19, 59, 52, 927334)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 19, 59, 52, 927377)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 19, 59, 52, 927389)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 19, 59, 52, 928058)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 19, 59, 52, 928067)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 19, 59, 52, 928074)}
+{'type': 'purchase action', 'name': 'fanta', 'price': 5, 'quantity': 5, 'timestamp': datetime.datetime(2024, 3, 17, 20, 0, 4, 254171)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 0, 13, 72978)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 0, 13, 73005)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 0, 13, 73058)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 0, 13, 73856)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 0, 13, 73866)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 0, 13, 73874)}
+{'type': 'purchase action', 'name': 'fanta', 'price': 5, 'quantity': 10, 'timestamp': datetime.datetime(2024, 3, 17, 20, 0, 33, 786409)}
+{'type': 'purchase action', 'name': 'fanta', 'price': 10, 'quantity': 10, 'timestamp': datetime.datetime(2024, 3, 17, 20, 0, 57, 634272)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 1, 43, 758626)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 1, 43, 758670)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 1, 43, 758686)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 1, 43, 758626)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 1, 43, 758670)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 1, 43, 758686)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 1, 43, 759768)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 1, 43, 759779)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 1, 43, 759788)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 1, 43, 758626)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 1, 43, 758670)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 1, 43, 758686)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 1, 43, 759768)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 1, 43, 759779)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 1, 43, 759788)}
+{'type': 'balance action', 'account': 10000.0, 'timestamp': datetime.datetime(2024, 3, 17, 20, 1, 48, 85629)}
+{'type': 'purchase action', 'name': 'coke', 'price': 10, 'quantity': 10, 'timestamp': datetime.datetime(2024, 3, 17, 20, 2, 15, 680604)}
+{'type': 'purchase action', 'name': 'coke', 'price': 5, 'quantity': 10, 'timestamp': datetime.datetime(2024, 3, 17, 20, 3, 25, 738218)}
+{'type': 'purchase action', 'name': 'coke', 'price': 5, 'quantity': 10, 'timestamp': datetime.datetime(2024, 3, 17, 20, 3, 25, 738218)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 3, 36, 915207)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 3, 36, 915242)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 3, 36, 915260)}
+{'type': 'purchase action', 'name': 'coke', 'price': 5, 'quantity': 10, 'timestamp': datetime.datetime(2024, 3, 17, 20, 3, 25, 738218)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 3, 36, 915207)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 3, 36, 915242)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 3, 36, 915260)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 3, 36, 916176)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 3, 36, 916188)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 3, 36, 916197)}
+{'type': 'purchase action', 'name': 'coke', 'price': 5, 'quantity': 10, 'timestamp': datetime.datetime(2024, 3, 17, 20, 3, 25, 738218)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 3, 36, 915207)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 3, 36, 915242)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 3, 36, 915260)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 3, 36, 916176)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 3, 36, 916188)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 3, 36, 916197)}
+{'type': 'purchase action', 'name': 'fanta', 'price': 5, 'quantity': 10, 'timestamp': datetime.datetime(2024, 3, 17, 20, 3, 53, 249204)}
+{'type': 'purchase action', 'name': 'coke', 'price': 5, 'quantity': 10, 'timestamp': datetime.datetime(2024, 3, 17, 20, 3, 25, 738218)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 3, 36, 915207)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 3, 36, 915242)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 3, 36, 915260)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 3, 36, 916176)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 3, 36, 916188)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 3, 36, 916197)}
+{'type': 'purchase action', 'name': 'fanta', 'price': 5, 'quantity': 10, 'timestamp': datetime.datetime(2024, 3, 17, 20, 3, 53, 249204)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 4, 2, 572607)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 4, 2, 572632)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 4, 2, 572642)}
+{'type': 'purchase action', 'name': 'coke', 'price': 5, 'quantity': 10, 'timestamp': datetime.datetime(2024, 3, 17, 20, 3, 25, 738218)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 3, 36, 915207)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 3, 36, 915242)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 3, 36, 915260)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 3, 36, 916176)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 3, 36, 916188)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 3, 36, 916197)}
+{'type': 'purchase action', 'name': 'fanta', 'price': 5, 'quantity': 10, 'timestamp': datetime.datetime(2024, 3, 17, 20, 3, 53, 249204)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 4, 2, 572607)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 4, 2, 572632)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 4, 2, 572642)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 4, 2, 573443)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 4, 2, 573456)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 4, 2, 573465)}
+{'type': 'purchase action', 'name': 'coke', 'price': 5, 'quantity': 10, 'timestamp': datetime.datetime(2024, 3, 17, 20, 3, 25, 738218)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 3, 36, 915207)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 3, 36, 915242)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 3, 36, 915260)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 3, 36, 916176)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 3, 36, 916188)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 3, 36, 916197)}
+{'type': 'purchase action', 'name': 'fanta', 'price': 5, 'quantity': 10, 'timestamp': datetime.datetime(2024, 3, 17, 20, 3, 53, 249204)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 4, 2, 572607)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 4, 2, 572632)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 4, 2, 572642)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 4, 2, 573443)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 4, 2, 573456)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 4, 2, 573465)}
+{'type': 'purchase action', 'name': 'pepsi', 'price': 10, 'quantity': 10, 'timestamp': datetime.datetime(2024, 3, 17, 20, 4, 16, 597703)}
+{'type': 'purchase action', 'name': 'coke', 'price': 5, 'quantity': 10, 'timestamp': datetime.datetime(2024, 3, 17, 20, 3, 25, 738218)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 3, 36, 915207)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 3, 36, 915242)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 3, 36, 915260)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 3, 36, 916176)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 3, 36, 916188)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 3, 36, 916197)}
+{'type': 'purchase action', 'name': 'fanta', 'price': 5, 'quantity': 10, 'timestamp': datetime.datetime(2024, 3, 17, 20, 3, 53, 249204)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 4, 2, 572607)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 4, 2, 572632)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 4, 2, 572642)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 4, 2, 573443)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 4, 2, 573456)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 4, 2, 573465)}
+{'type': 'purchase action', 'name': 'pepsi', 'price': 10, 'quantity': 10, 'timestamp': datetime.datetime(2024, 3, 17, 20, 4, 16, 597703)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 4, 25, 133006)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 4, 25, 133035)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 4, 25, 133048)}
+{'type': 'purchase action', 'name': 'coke', 'price': 5, 'quantity': 10, 'timestamp': datetime.datetime(2024, 3, 17, 20, 3, 25, 738218)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 3, 36, 915207)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 3, 36, 915242)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 3, 36, 915260)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 3, 36, 916176)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 3, 36, 916188)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 3, 36, 916197)}
+{'type': 'purchase action', 'name': 'fanta', 'price': 5, 'quantity': 10, 'timestamp': datetime.datetime(2024, 3, 17, 20, 3, 53, 249204)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 4, 2, 572607)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 4, 2, 572632)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 4, 2, 572642)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 4, 2, 573443)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 4, 2, 573456)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 4, 2, 573465)}
+{'type': 'purchase action', 'name': 'pepsi', 'price': 10, 'quantity': 10, 'timestamp': datetime.datetime(2024, 3, 17, 20, 4, 16, 597703)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 4, 25, 133006)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 4, 25, 133035)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 4, 25, 133048)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 4, 25, 134057)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 4, 25, 134070)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 4, 25, 134079)}
+{'type': 'purchase action', 'name': 'coke', 'price': 5, 'quantity': 10, 'timestamp': datetime.datetime(2024, 3, 17, 20, 3, 25, 738218)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 3, 36, 915207)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 3, 36, 915242)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 3, 36, 915260)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 3, 36, 916176)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 3, 36, 916188)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 3, 36, 916197)}
+{'type': 'purchase action', 'name': 'fanta', 'price': 5, 'quantity': 10, 'timestamp': datetime.datetime(2024, 3, 17, 20, 3, 53, 249204)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 4, 2, 572607)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 4, 2, 572632)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 4, 2, 572642)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 4, 2, 573443)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 4, 2, 573456)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 4, 2, 573465)}
+{'type': 'purchase action', 'name': 'pepsi', 'price': 10, 'quantity': 10, 'timestamp': datetime.datetime(2024, 3, 17, 20, 4, 16, 597703)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 4, 25, 133006)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 4, 25, 133035)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 4, 25, 133048)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 4, 25, 134057)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 4, 25, 134070)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 4, 25, 134079)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 4, 25, 134416)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 4, 25, 134426)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 4, 25, 134435)}
+{'type': 'purchase action', 'name': 'coke', 'price': 5, 'quantity': 10, 'timestamp': datetime.datetime(2024, 3, 17, 20, 3, 25, 738218)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 3, 36, 915207)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 3, 36, 915242)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 3, 36, 915260)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 3, 36, 916176)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 3, 36, 916188)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 3, 36, 916197)}
+{'type': 'purchase action', 'name': 'fanta', 'price': 5, 'quantity': 10, 'timestamp': datetime.datetime(2024, 3, 17, 20, 3, 53, 249204)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 4, 2, 572607)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 4, 2, 572632)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 4, 2, 572642)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 4, 2, 573443)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 4, 2, 573456)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 4, 2, 573465)}
+{'type': 'purchase action', 'name': 'pepsi', 'price': 10, 'quantity': 10, 'timestamp': datetime.datetime(2024, 3, 17, 20, 4, 16, 597703)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 4, 25, 133006)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 4, 25, 133035)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 4, 25, 133048)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 4, 25, 134057)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 4, 25, 134070)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 4, 25, 134079)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 4, 25, 134416)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 4, 25, 134426)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 4, 25, 134435)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 4, 40, 856973)}
+{'type': 'purchase action', 'name': 'fanta', 'price': 5, 'quantity': 10, 'timestamp': datetime.datetime(2024, 3, 17, 20, 7, 22, 751876)}
+{'type': 'purchase action', 'name': 'fanta', 'price': 5, 'quantity': 10, 'timestamp': datetime.datetime(2024, 3, 17, 20, 7, 22, 751876)}
+{'type': 'purchase action', 'name': 'coke', 'price': 5, 'quantity': 10, 'timestamp': datetime.datetime(2024, 3, 17, 20, 7, 39, 15002)}
+{'type': 'purchase action', 'name': 'fanta', 'price': 5, 'quantity': 10, 'timestamp': datetime.datetime(2024, 3, 17, 20, 7, 22, 751876)}
+{'type': 'purchase action', 'name': 'coke', 'price': 5, 'quantity': 10, 'timestamp': datetime.datetime(2024, 3, 17, 20, 7, 39, 15002)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 7, 46, 780866)}
+{'type': 'purchase action', 'name': 'fanta', 'price': 5, 'quantity': 10, 'timestamp': datetime.datetime(2024, 3, 17, 20, 7, 22, 751876)}
+{'type': 'purchase action', 'name': 'coke', 'price': 5, 'quantity': 10, 'timestamp': datetime.datetime(2024, 3, 17, 20, 7, 39, 15002)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 7, 46, 780866)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 8, 9, 871530)}
+{'type': 'purchase action', 'name': 'fanta', 'price': 5, 'quantity': 10, 'timestamp': datetime.datetime(2024, 3, 17, 20, 7, 22, 751876)}
+{'type': 'purchase action', 'name': 'coke', 'price': 5, 'quantity': 10, 'timestamp': datetime.datetime(2024, 3, 17, 20, 7, 39, 15002)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 7, 46, 780866)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 8, 9, 871530)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 8, 22, 650378)}
+{'type': 'purchase action', 'name': 'pepsi', 'price': 10, 'quantity': 10, 'timestamp': datetime.datetime(2024, 3, 17, 20, 9, 29, 74283)}
+{'type': 'purchase action', 'name': 'pepsi', 'price': 10, 'quantity': 10, 'timestamp': datetime.datetime(2024, 3, 17, 20, 9, 29, 74283)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 9, 37, 946045)}
+{'type': 'purchase action', 'name': 'pepsi', 'price': 10, 'quantity': 10, 'timestamp': datetime.datetime(2024, 3, 17, 20, 9, 29, 74283)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 9, 37, 946045)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 9, 58, 227855)}
+{'type': 'purchase action', 'name': 'pepsi', 'price': 10, 'quantity': 10, 'timestamp': datetime.datetime(2024, 3, 17, 20, 9, 29, 74283)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 9, 37, 946045)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 9, 58, 227855)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 10, 8, 970571)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 10, 8, 970610)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 10, 8, 970627)}
+{'type': 'purchase action', 'name': 'pepsi', 'price': 10, 'quantity': 10, 'timestamp': datetime.datetime(2024, 3, 17, 20, 9, 29, 74283)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 9, 37, 946045)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 9, 58, 227855)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 10, 8, 970571)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 10, 8, 970610)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 10, 8, 970627)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 10, 8, 971496)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 10, 8, 971508)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 10, 8, 971518)}
+{'type': 'purchase action', 'name': 'pepsi', 'price': 10, 'quantity': 10, 'timestamp': datetime.datetime(2024, 3, 17, 20, 9, 29, 74283)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 9, 37, 946045)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 9, 58, 227855)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 10, 8, 970571)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 10, 8, 970610)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 10, 8, 970627)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 10, 8, 971496)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 10, 8, 971508)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 10, 8, 971518)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 10, 8, 971875)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 10, 8, 971885)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 10, 8, 971894)}
+{'type': 'balance action', 'account': 1000.0, 'timestamp': datetime.datetime(2024, 3, 17, 20, 13, 13, 44619)}
+{'type': 'balance action', 'account': 1000.0, 'timestamp': datetime.datetime(2024, 3, 17, 20, 13, 13, 44619)}
+{'type': 'purchase action', 'name': 'coke', 'price': 5, 'quantity': 10, 'timestamp': datetime.datetime(2024, 3, 17, 20, 13, 33, 135109)}
+{'type': 'balance action', 'account': 1000.0, 'timestamp': datetime.datetime(2024, 3, 17, 20, 13, 13, 44619)}
+{'type': 'purchase action', 'name': 'coke', 'price': 5, 'quantity': 10, 'timestamp': datetime.datetime(2024, 3, 17, 20, 13, 33, 135109)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 13, 39, 488862)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 13, 39, 488889)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 13, 39, 488900)}
+{'type': 'balance action', 'account': 1000.0, 'timestamp': datetime.datetime(2024, 3, 17, 20, 13, 13, 44619)}
+{'type': 'purchase action', 'name': 'coke', 'price': 5, 'quantity': 10, 'timestamp': datetime.datetime(2024, 3, 17, 20, 13, 33, 135109)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 13, 39, 488862)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 13, 39, 488889)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 13, 39, 488900)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 13, 39, 489547)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 13, 39, 489559)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 13, 39, 489567)}
+{'type': 'balance action', 'account': 1000.0, 'timestamp': datetime.datetime(2024, 3, 17, 20, 13, 13, 44619)}
+{'type': 'purchase action', 'name': 'coke', 'price': 5, 'quantity': 10, 'timestamp': datetime.datetime(2024, 3, 17, 20, 13, 33, 135109)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 13, 39, 488862)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 13, 39, 488889)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 13, 39, 488900)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 13, 39, 489547)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 13, 39, 489559)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 13, 39, 489567)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 13, 39, 489854)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 13, 39, 489865)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 13, 39, 489875)}
+{'type': 'balance action', 'account': 1000.0, 'timestamp': datetime.datetime(2024, 3, 17, 20, 13, 13, 44619)}
+{'type': 'purchase action', 'name': 'coke', 'price': 5, 'quantity': 10, 'timestamp': datetime.datetime(2024, 3, 17, 20, 13, 33, 135109)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 13, 39, 488862)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 13, 39, 488889)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 13, 39, 488900)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 13, 39, 489547)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 13, 39, 489559)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 13, 39, 489567)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 13, 39, 489854)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 13, 39, 489865)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 13, 39, 489875)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 13, 48, 432613)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 16, 40, 766263)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 16, 40, 766301)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 16, 40, 766315)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 16, 40, 766263)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 16, 40, 766301)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 16, 40, 766315)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 16, 40, 767409)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 16, 40, 767422)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 16, 40, 767432)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 16, 40, 766263)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 16, 40, 766301)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 16, 40, 766315)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 16, 40, 767409)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 16, 40, 767422)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 16, 40, 767432)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 16, 40, 767720)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 16, 40, 767730)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 16, 40, 767739)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 16, 40, 766263)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 16, 40, 766301)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 16, 40, 766315)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 16, 40, 767409)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 16, 40, 767422)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 16, 40, 767432)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 16, 40, 767720)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 16, 40, 767730)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 16, 40, 767739)}
+{'type': 'sale action', 'name': 'fanta', 'price': 5, 'quantity': 2, 'timestamp': datetime.datetime(2024, 3, 17, 20, 16, 51, 837857)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 16, 40, 766263)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 16, 40, 766301)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 16, 40, 766315)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 16, 40, 767409)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 16, 40, 767422)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 16, 40, 767432)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 16, 40, 767720)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 16, 40, 767730)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 16, 40, 767739)}
+{'type': 'sale action', 'name': 'fanta', 'price': 5, 'quantity': 2, 'timestamp': datetime.datetime(2024, 3, 17, 20, 16, 51, 837857)}
+{'type': 'sale action', 'name': 'coke', 'price': 5, 'quantity': 30, 'timestamp': datetime.datetime(2024, 3, 17, 20, 17, 34, 10085)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 16, 40, 766263)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 16, 40, 766301)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 16, 40, 766315)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 16, 40, 767409)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 16, 40, 767422)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 16, 40, 767432)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 16, 40, 767720)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 16, 40, 767730)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 16, 40, 767739)}
+{'type': 'sale action', 'name': 'fanta', 'price': 5, 'quantity': 2, 'timestamp': datetime.datetime(2024, 3, 17, 20, 16, 51, 837857)}
+{'type': 'sale action', 'name': 'coke', 'price': 5, 'quantity': 30, 'timestamp': datetime.datetime(2024, 3, 17, 20, 17, 34, 10085)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 17, 38, 468316)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 17, 38, 468344)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 17, 38, 468358)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 16, 40, 766263)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 16, 40, 766301)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 16, 40, 766315)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 16, 40, 767409)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 16, 40, 767422)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 16, 40, 767432)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 16, 40, 767720)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 16, 40, 767730)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 16, 40, 767739)}
+{'type': 'sale action', 'name': 'fanta', 'price': 5, 'quantity': 2, 'timestamp': datetime.datetime(2024, 3, 17, 20, 16, 51, 837857)}
+{'type': 'sale action', 'name': 'coke', 'price': 5, 'quantity': 30, 'timestamp': datetime.datetime(2024, 3, 17, 20, 17, 34, 10085)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 17, 38, 468316)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 17, 38, 468344)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 17, 38, 468358)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 17, 38, 469257)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 17, 38, 469268)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 17, 38, 469278)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 16, 40, 766263)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 16, 40, 766301)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 16, 40, 766315)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 16, 40, 767409)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 16, 40, 767422)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 16, 40, 767432)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 16, 40, 767720)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 16, 40, 767730)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 16, 40, 767739)}
+{'type': 'sale action', 'name': 'fanta', 'price': 5, 'quantity': 2, 'timestamp': datetime.datetime(2024, 3, 17, 20, 16, 51, 837857)}
+{'type': 'sale action', 'name': 'coke', 'price': 5, 'quantity': 30, 'timestamp': datetime.datetime(2024, 3, 17, 20, 17, 34, 10085)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 17, 38, 468316)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 17, 38, 468344)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 17, 38, 468358)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 17, 38, 469257)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 17, 38, 469268)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 17, 38, 469278)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 17, 38, 469669)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 17, 38, 469681)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 17, 38, 469691)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 16, 40, 766263)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 16, 40, 766301)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 16, 40, 766315)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 16, 40, 767409)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 16, 40, 767422)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 16, 40, 767432)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 16, 40, 767720)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 16, 40, 767730)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 16, 40, 767739)}
+{'type': 'sale action', 'name': 'fanta', 'price': 5, 'quantity': 2, 'timestamp': datetime.datetime(2024, 3, 17, 20, 16, 51, 837857)}
+{'type': 'sale action', 'name': 'coke', 'price': 5, 'quantity': 30, 'timestamp': datetime.datetime(2024, 3, 17, 20, 17, 34, 10085)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 17, 38, 468316)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 17, 38, 468344)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 17, 38, 468358)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 17, 38, 469257)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 17, 38, 469268)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 17, 38, 469278)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 17, 38, 469669)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 17, 38, 469681)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 17, 38, 469691)}
+{'type': 'purchase action', 'name': 'coke', 'price': 5, 'quantity': 10, 'timestamp': datetime.datetime(2024, 3, 17, 20, 20, 0, 468791)}
+{'type': 'purchase action', 'name': 'coke', 'price': 5, 'quantity': 10, 'timestamp': datetime.datetime(2024, 3, 17, 20, 20, 0, 468791)}
+{'type': 'choosing action', 'action': 'purchase', 'timestamp': datetime.datetime(2024, 3, 17, 20, 21, 35, 691502)}
+{'type': 'purchase action', 'name': 'coke', 'price': 10, 'quantity': 5, 'timestamp': datetime.datetime(2024, 3, 17, 20, 21, 47, 802985)}
+{'type': 'choosing action', 'action': 'purchase', 'timestamp': datetime.datetime(2024, 3, 17, 20, 21, 35, 691502)}
+{'type': 'purchase action', 'name': 'coke', 'price': 10, 'quantity': 5, 'timestamp': datetime.datetime(2024, 3, 17, 20, 21, 47, 802985)}
+{'type': 'choosing action', 'action': 'list', 'timestamp': datetime.datetime(2024, 3, 17, 20, 21, 58, 308859)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 21, 58, 308958)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 21, 58, 308975)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 21, 58, 308987)}
+{'type': 'choosing action', 'action': 'purchase', 'timestamp': datetime.datetime(2024, 3, 17, 20, 21, 35, 691502)}
+{'type': 'purchase action', 'name': 'coke', 'price': 10, 'quantity': 5, 'timestamp': datetime.datetime(2024, 3, 17, 20, 21, 47, 802985)}
+{'type': 'choosing action', 'action': 'list', 'timestamp': datetime.datetime(2024, 3, 17, 20, 21, 58, 308859)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 21, 58, 308958)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 21, 58, 308975)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 21, 58, 308987)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 21, 58, 309615)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 21, 58, 309629)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 21, 58, 309638)}
+{'type': 'choosing action', 'action': 'purchase', 'timestamp': datetime.datetime(2024, 3, 17, 20, 21, 35, 691502)}
+{'type': 'purchase action', 'name': 'coke', 'price': 10, 'quantity': 5, 'timestamp': datetime.datetime(2024, 3, 17, 20, 21, 47, 802985)}
+{'type': 'choosing action', 'action': 'list', 'timestamp': datetime.datetime(2024, 3, 17, 20, 21, 58, 308859)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 21, 58, 308958)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 21, 58, 308975)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 21, 58, 308987)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 21, 58, 309615)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 21, 58, 309629)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 21, 58, 309638)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 21, 58, 309969)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 21, 58, 309979)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 21, 58, 309988)}
+{'type': 'choosing action', 'action': 'purchase', 'timestamp': datetime.datetime(2024, 3, 17, 20, 21, 35, 691502)}
+{'type': 'purchase action', 'name': 'coke', 'price': 10, 'quantity': 5, 'timestamp': datetime.datetime(2024, 3, 17, 20, 21, 47, 802985)}
+{'type': 'choosing action', 'action': 'list', 'timestamp': datetime.datetime(2024, 3, 17, 20, 21, 58, 308859)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 21, 58, 308958)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 21, 58, 308975)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 21, 58, 308987)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 21, 58, 309615)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 21, 58, 309629)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 21, 58, 309638)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 21, 58, 309969)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 21, 58, 309979)}
+{'type': 'list action', 'timestamp': datetime.datetime(2024, 3, 17, 20, 21, 58, 309988)}
+{'type': 'choosing action', 'action': '', 'timestamp': datetime.datetime(2024, 3, 17, 20, 22, 7, 831188)}
+{'type': 'choosing action', 'action': '', 'timestamp': datetime.datetime(2024, 3, 17, 20, 22, 8, 173453)}
+{'type': 'choosing action', 'action': 'end', 'timestamp': datetime.datetime(2024, 3, 17, 20, 22, 10, 188924)}
